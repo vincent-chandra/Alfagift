@@ -1,0 +1,6 @@
+framework module Pods_Alfagift_TechnicalTest {
+  umbrella header "Pods-Alfagift-TechnicalTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
